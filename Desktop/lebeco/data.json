@@ -1,0 +1,87 @@
+[
+  {
+    "year": 2009,
+    "inflation_cpi_pct_yoy": 1.195,
+    "exchange_rate_lbp_per_usd": 1507.5
+  },
+  {
+    "year": 2010,
+    "inflation_cpi_pct_yoy": 3.983,
+    "exchange_rate_lbp_per_usd": 1507.5
+  },
+  {
+    "year": 2011,
+    "inflation_cpi_pct_yoy": 4.971,
+    "exchange_rate_lbp_per_usd": 1507.5
+  },
+  {
+    "year": 2012,
+    "inflation_cpi_pct_yoy": 6.581,
+    "exchange_rate_lbp_per_usd": 1507.5
+  },
+  {
+    "year": 2013,
+    "inflation_cpi_pct_yoy": 4.821,
+    "exchange_rate_lbp_per_usd": 1507.5
+  },
+  {
+    "year": 2014,
+    "inflation_cpi_pct_yoy": 1.895,
+    "exchange_rate_lbp_per_usd": 1507.5
+  },
+  {
+    "year": 2015,
+    "inflation_cpi_pct_yoy": -3.746,
+    "exchange_rate_lbp_per_usd": 1507.5
+  },
+  {
+    "year": 2016,
+    "inflation_cpi_pct_yoy": -0.776,
+    "exchange_rate_lbp_per_usd": 1507.5
+  },
+  {
+    "year": 2017,
+    "inflation_cpi_pct_yoy": 4.467,
+    "exchange_rate_lbp_per_usd": 1507.5
+  },
+  {
+    "year": 2018,
+    "inflation_cpi_pct_yoy": 6.071,
+    "exchange_rate_lbp_per_usd": 1507.5
+  },
+  {
+    "year": 2019,
+    "inflation_cpi_pct_yoy": 2.955,
+    "exchange_rate_lbp_per_usd": 1507.5
+  },
+  {
+    "year": 2020,
+    "inflation_cpi_pct_yoy": 84.855,
+    "exchange_rate_lbp_per_usd": 3858.0
+  },
+  {
+    "year": 2021,
+    "inflation_cpi_pct_yoy": 154.763,
+    "exchange_rate_lbp_per_usd": 15075.0
+  },
+  {
+    "year": 2022,
+    "inflation_cpi_pct_yoy": 171.205,
+    "exchange_rate_lbp_per_usd": 24708.0
+  },
+  {
+    "year": 2023,
+    "inflation_cpi_pct_yoy": 221.334,
+    "exchange_rate_lbp_per_usd": 89500.0
+  },
+  {
+    "year": 2024,
+    "inflation_cpi_pct_yoy": 63.662,
+    "exchange_rate_lbp_per_usd": 89500.0
+  },
+  {
+    "year": 2025,
+    "inflation_cpi_pct_yoy": 25.123,
+    "exchange_rate_lbp_per_usd": 89500.0
+  }
+]
